@@ -1,0 +1,5 @@
+"customer_order_segment","total_customers","churn_customers","churn_rate","retention_rate"
+"2 to 5 orders",1868,527,28.21199,71.78801
+"1 order",1450,791,54.55172,45.44828
+"6 to 10 orders",533,40,7.50469,92.49531
+>10 orders,257,10,3.89105,96.10895
