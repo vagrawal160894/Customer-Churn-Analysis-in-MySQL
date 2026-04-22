@@ -53,6 +53,8 @@ order_items   →  order_item_id (PK), order_id (FK), product_id (FK), quantity,
 
 Each table was created with primary keys and linked via foreign keys to maintain referential integrity. During population, an edge case was discovered — the `price` column needed adjustment from `DECIMAL(10,2)` to `DECIMAL(10,3)` to preserve sub-cent pricing accuracy.
 
+<img width="1172" height="565" alt="image" src="https://github.com/user-attachments/assets/fcc28be8-fe39-41b8-85dc-45d4f6fd2e89" />
+
 ---
 
 ## Selected High-Impact Analyses
